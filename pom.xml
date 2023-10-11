@@ -78,8 +78,6 @@
 			      <configuration>
 			        <archive>
 			          <manifest>
-			            <addClasspath>true</addClasspath>
-			            <classpathPrefix>lib/</classpathPrefix>
 			            <mainClass>com.tablehop.tablehop_restaurant_app</mainClass>
 			          </manifest>
 			        </archive>
