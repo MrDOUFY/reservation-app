@@ -78,7 +78,8 @@
 			      <configuration>
 			        <archive>
 			          <manifest>
-			            <mainClass>com.tablehop.TablehopRestaurantAppApplication</mainClass>
+			            <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
+					<addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
 			          </manifest>
 			        </archive>
 			      </configuration>
